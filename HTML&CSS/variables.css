@@ -1,0 +1,12 @@
+ul {
+  font-size: 14px;
+  color: blue; }
+
+ol {
+  font-size: 18px;
+  color: blue; }
+
+ol > #first {
+  color: brown; }
+
+/*# sourceMappingURL=variables.css.map */
